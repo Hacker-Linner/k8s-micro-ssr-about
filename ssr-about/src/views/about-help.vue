@@ -1,9 +1,6 @@
 <template>
     <div>
-        帮助中心 ——
-        <a href="https://k8seggjs.hacker-linner.com/" target="_blank"
-            >互相交流，一起云原生！</a
-        >
+        帮助中心
     </div>
 </template>
 <script lang="ts">

@@ -1,9 +1,6 @@
 <template>
     <div>
-        关于我们 ——
-        <a href="https://k8seggjs.hacker-linner.com/" target="_blank"
-            >互相交流，一起云原生！</a
-        >
+        <h3>我是关于我们页面渲染微服务 —— <a href="https://github.com/Hacker-Linner/k8s-micro-ssr-about" target="_blank">k8s-micro-ssr-about</a></h3>
     </div>
 </template>
 <script lang="ts">
